@@ -2,7 +2,7 @@
 
 This is a very simple Python CLI app that given a list of integers orders them in ascending order and produces an output of the squared integers.
 
-The app tested with python version 3.12.
+The app was tested on Apple M2 chip with dockerd(moby) container engine.
 
 # Running the app
 
